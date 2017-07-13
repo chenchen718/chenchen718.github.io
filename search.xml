@@ -3,26 +3,19 @@
   
     
     <entry>
-      <title><![CDATA[How to start bloging using Hexo and github]]></title>
-      <url>/2017/07/13/Hexo-and-github/</url>
-      <content type="html"></content>
+      <title></title>
+      <url>/2017/07/13/Tensorflow/</url>
+      <content type="html"><![CDATA[<h1 id="An-introduction-to-tensorflow"><a href="#An-introduction-to-tensorflow" class="headerlink" title="An introduction to tensorflow"></a>An introduction to tensorflow</h1><hr>
+<p>title:  An introduction to tensorflow<br>date: 2017-07-13 16:45:12<br>categories: deep learning</p>
+<h2 id="tags-tensorflow-deep-learning-computer-science"><a href="#tags-tensorflow-deep-learning-computer-science" class="headerlink" title="tags: [tensorflow, deep-learning, computer-science]"></a>tags: [tensorflow, deep-learning, computer-science]</h2><hr>
+<p>I need to test the equations in this markdown file.<br>\[ f(x) =  \sum \limits_{i=1,\ldots,N} i^2  \]</p>
+<pre><code>import tensorflow as tf
+sess = tf. session()
+</code></pre><blockquote>
+<p><a href="chenzhao718.github.io">President Putin said that life is short!</a></p>
+</blockquote>
+]]></content>
       
-        <categories>
-            
-            <category> techniques </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> blog </tag>
-            
-            <tag> github </tag>
-            
-            <tag> webpage </tag>
-            
-        </tags>
         
     </entry>
     
@@ -52,6 +45,30 @@
             <tag> deep learning </tag>
             
             <tag> object detection </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[How to start bloging using Hexo and github]]></title>
+      <url>/2017/07/13/Hexo-and-github/</url>
+      <content type="html"></content>
+      
+        <categories>
+            
+            <category> techniques </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> blog </tag>
+            
+            <tag> github </tag>
+            
+            <tag> webpage </tag>
             
         </tags>
         
