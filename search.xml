@@ -13,38 +13,4 @@
         <tag>markdown</tag>
       </tags>
   </entry>
-  <entry>
-    <title><![CDATA[Studying notes on R-CNN]]></title>
-    <url>%2F2017%2F07%2F13%2FR-CNN%2F</url>
-    <content type="text"></content>
-      <categories>
-        <category>deep learning</category>
-      </categories>
-      <tags>
-        <tag>deep learning</tag>
-        <tag>object detection</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[How to start bloging using Hexo and github]]></title>
-    <url>%2F2017%2F07%2F13%2FHexo-and-github%2F</url>
-    <content type="text"></content>
-      <categories>
-        <category>techniques</category>
-      </categories>
-      <tags>
-        <tag>blog</tag>
-        <tag>github</tag>
-        <tag>webpage</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello world]]></title>
-    <url>%2F2017%2F07%2F13%2Fnew-post%2F</url>
-    <content type="text"></content>
-      <tags>
-        <tag>test</tag>
-        <tag>first post</tag>
-      </tags>
-  </entry>
 </search>
